@@ -88,6 +88,7 @@ pip install -r app/requirements_streamlit.txt
 │   └── pt_finetuned_only_it/
 │       └── best_model/                   # Best trained model (IT→PT only, Stage 2)
 │           ├── model.pt                  # NOT included — see Section 11 (Hugging Face)
+│           ├── config.json
 │           ├── multilabel_config.json
 │           └── tokenizer files
 ├── results/
