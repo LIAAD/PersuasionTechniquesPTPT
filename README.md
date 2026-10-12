@@ -203,7 +203,7 @@ best read relative to the competing systems and this task-specific ceiling.
 ## 11. Resources
 
 - 🤖 **Trained model (weights):** released on the Hugging Face Hub. The `model.pt`
-  under `outputs_v4/.../best_model/` is **not** committed to this repository.
+  under `best_model/` is **not** committed to this repository.
 - 🌍 **Sentence embeddings:** [`paraphrase-multilingual-MiniLM-L12-v2`](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)
 - 🔗 **Span projection:** LinguAligner
 
