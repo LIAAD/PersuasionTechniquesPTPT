@@ -1,4 +1,4 @@
-# 🇵🇹 Zero-Resource Detection of Persuasion Techniques in European Portuguese
+# Zero-Resource Detection of Persuasion Techniques in European Portuguese
 
 Span-level detection of **23 persuasion techniques** in European Portuguese news
 articles under a strict **zero-resource** setting (no annotated training data in
