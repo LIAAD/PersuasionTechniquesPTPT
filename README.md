@@ -22,9 +22,9 @@ head** that emits, per token, independent begin/inside (BIO) outputs for every
 technique, so co-occurring and overlapping techniques are predicted directly.
 Training follows a two-stage pipeline:
 
-- **Stage 1** — multilingual training on all six source languages (English,
+- **Stage 1** - multilingual training on all six source languages (English,
   Italian, French, German, Polish, Russian) plus machine-translated Portuguese.
-- **Stage 2** — fine-tuning on Italian-to-Portuguese translated data alone, the
+- **Stage 2** - fine-tuning on Italian-to-Portuguese translated data alone, the
   source language identified as closest to Portuguese by the embedding analysis.
 
 An interactive **Streamlit** demo (`app/app_streamlit.py`) runs the trained model
