@@ -84,9 +84,7 @@ pip install -r app/requirements_streamlit.txt
 │   ├── train_model_base_v4.py            # Stage 1: multilingual base training
 │   ├── train_it_pt_finetune_v4_it.py     # Stage 2: Portuguese fine-tuning
 │   └── testing.py                        # Inference + evaluation (Algorithm 1)
-├── outputs_v4/
-│   └── pt_finetuned_only_it/
-│       └── best_model/                   # Best trained model (IT→PT only, Stage 2)
+├── best_model/                           # Best trained model (IT→PT only, Stage 2)
 │           ├── model.pt                  # NOT included — see Section 11 (Hugging Face)
 │           ├── config.json
 │           ├── multilabel_config.json
