@@ -211,8 +211,7 @@ best read relative to the competing systems and this task-specific ceiling.
 
 ## 13. Acknowledgments
 
-Built on the CLEF-2024 CheckThat! Lab Task 3 dataset and resources. Developed at
-INESC TEC / University of Porto.
+Built on the CLEF-2024 CheckThat! Lab Task 3 dataset and resources.
 
 ---
 
