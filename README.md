@@ -162,8 +162,7 @@ which defines the zero-resource setting. The `translation/` scripts produce the
 machine-translated Portuguese used in training (IT→PT: 302 docs / 4,735 spans;
 FR→PT: 208 / 4,166; RU→PT: 190 / 3,096).
 
-**Reference:** Hasanain, M., et al. *Overview of the CLEF-2024 CheckThat! Lab
-Task 3 on Persuasion Techniques Detection.* CLEF Working Notes, 2024.
+**Reference:** Piskorski, J., Stefanovitch, N., Alam, F., Campos, R., Dimitrov, D., Jorge, A., Pollak, S., Ribin, N., Fijavž, Z., Hasanain, M., Guimarães, N., Pacheco, A.F., Sartori, E., Silvano, P., Zwitter, A., Yu, N., Nakov, P., Da San Martino, G.: Overview of the CLEF-2024 CheckThat! Lab Task 3 on Persuasion Techniques. In: Working Notes of CLEF 2024 - Conference and Labs of the Evaluation Forum. CLEF 2024, Grenoble, France (2024).
 
 ## 9. Architecture
 
