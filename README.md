@@ -207,9 +207,7 @@ best read relative to the competing systems and this task-specific ceiling.
 - 🌍 **Sentence embeddings:** [`paraphrase-multilingual-MiniLM-L12-v2`](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)
 - 🔗 **Span projection:** LinguAligner
 
-## 12. License
-
-## 13. Acknowledgments
+## 12. Acknowledgments
 
 Built on the CLEF-2024 CheckThat! Lab Task 3 dataset and resources.
 
